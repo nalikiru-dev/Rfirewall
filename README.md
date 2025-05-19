@@ -8,5 +8,6 @@
 • Log activities for monitoring.
 • Provide a CLI for rule management.
 • Work on Linux using netfilterqueue, Windows using PyWFP, and Mac using pfctl via subprocess.
+This is some boilerplate initalization
 # Rfirewall
 # Rfirewall
